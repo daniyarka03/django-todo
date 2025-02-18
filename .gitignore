@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Django-specific files
+db.sqlite3
+__pycache__/
+
+# Media and static files
+/media/
+/static/
+
+# Python-related caches
+.ruff_cache/
+/mypy_cache/
+/*.pyc
